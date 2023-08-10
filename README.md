@@ -1,4 +1,4 @@
-# MIPS Assembly Language Assignment README
+# Command Line Instructions
 
 This repository contains the implementation of various MIPS assembly language operations for computing and data manipulation. The assignment is divided into multiple parts, each requiring you to implement specific functionality. The goal is to validate command-line arguments, process input, and perform computations based on the given requirements.
 
